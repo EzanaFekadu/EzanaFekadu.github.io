@@ -845,8 +845,8 @@ export default function Portfolio() {
             {[
               { label: "Email", value: "efekadu@murraystate.edu", href: "mailto:efekadu@murraystate.edu" },
               { label: "Phone", value: "(703) 861-8851", href: "tel:+17038618851" },
-              { label: "LinkedIn", value: "LinkedIn →", href: "https://linkedin.com" },
-              { label: "GitHub", value: "GitHub →", href: "https://github.com" },
+              { label: "LinkedIn", value: "LinkedIn →", href: "https://www.linkedin.com/in/ezana-fekadu/" },
+              { label: "GitHub", value: "GitHub →", href: "https://github.com/EzanaFekadu" },
             ].map((link) => (
               <a
                 key={link.label}
