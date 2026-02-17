@@ -835,7 +835,7 @@ export default function Portfolio() {
             color: "rgba(255,255,255,0.45)", marginBottom: 40,
             maxWidth: 500, lineHeight: 1.7,
           }}>
-            I'm actively seeking a Summer 2026 Software Development Engineer internship.
+            I'm actively seeking an Entry-Level Position/ Summer 2026 Software Development Engineer Internship.
             Let's connect — I'd love to hear about what you're building.
           </p>
         </Reveal>
